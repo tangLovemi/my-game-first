@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+<UIProject xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ProjectDir>C:\cocos2d-x-2.2.3\projects\GameTest2\GameDesign\UI界面\ControlUI</ProjectDir>
+  <Version>1.4.0.0</Version>
+  <Resources>C:\cocos2d-x-2.2.3\projects\GameTest2\GameDesign\UI界面\ControlUI\Resources</Resources>
+  <Name>ControlUI</Name>
+  <JsonFileName>ControlUI.json</JsonFileName>
+  <JsonFolder>C:\cocos2d-x-2.2.3\projects\GameTest2\GameDesign\UI界面\ControlUI\Json</JsonFolder>
+  <JsonList>
+    <string>ControlUI.json</string>
+  </JsonList>
+  <CanvasSize>
+    <Width>840</Width>
+    <Height>520</Height>
+  </CanvasSize>
+  <filePath>C:\cocos2d-x-2.2.3\projects\GameTest2\GameDesign\UI界面\ControlUI\ControlUI.xml.ui</filePath>
+  <ProjectType>UIProject</ProjectType>
+  <ResRelativePath />
+  <imageFileList />
+  <imagePngList />
+  <JsonSuffix>.json</JsonSuffix>
+  <CurrentUIJson>ControlUI.json</CurrentUIJson>
+</UIProject>
